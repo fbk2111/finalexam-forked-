@@ -1,7 +1,7 @@
 README (12/15/23)
 
 Overview
-This is a simple React-based weather app that allows users to check the weather forecast for a given city. The app utilizes the OpenWeatherMap API to fetch weather data for the next week, including temperature, humidity, rain, and time. I have collaborated with TA’s and friends, according to the rules, online videos were used.
+This is a simple React-based weather app that allows users to check the weather forecast for a given city. The app utilizes the OpenWeatherMap API to fetch weather data for the next week, including temperature, humidity, rain, and time. I have collaborated with TA’s and friends, according to the rules, online videos were used. https://www.youtube.com/watch?v=Reny0cTTv24 - modified most part of it to fit my personal experienece, 
 
 City Search: Users can type the name of a city into the input box.
 Weather Data Display: The app displays the weather forecast for the next week, including temperature, humidity, rain, and time.
